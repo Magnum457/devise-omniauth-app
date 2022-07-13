@@ -22,6 +22,12 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'therubyracer'
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-digitalocean'
+gem 'multi_json', '~> 1.11', '>= 1.11.2'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
